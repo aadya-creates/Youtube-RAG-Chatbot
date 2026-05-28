@@ -27,13 +27,3 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows users to ask question
 ---
 
 ## 📸 Demo
-(Add screenshot or screen recording here)
-
----
-
-## ⚙️ Setup Instructions
-
-### 1. Clone repo
-```bash
-git clone https://github.com/your-username/yt-rag-chatbot.git
-cd yt-rag-chatbot
