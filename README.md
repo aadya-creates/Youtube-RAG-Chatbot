@@ -27,3 +27,4 @@ A Retrieval-Augmented Generation (RAG) chatbot that allows users to ask question
 ---
 
 ## 📸 Demo
+<img width="1347" height="584" alt="image" src="https://github.com/user-attachments/assets/5bd794f0-981c-452e-9f82-bb7ae5d92e61" />
